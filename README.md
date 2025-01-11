@@ -1,1 +1,1 @@
-# CENG505_PROJECT
+# RAG Pipeline for PDF queries
